@@ -1,0 +1,16 @@
+{
+  "name": "computer_system_final_work_blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
