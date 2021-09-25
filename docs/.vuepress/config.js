@@ -1,6 +1,6 @@
 module.exports = {
     base: '/ComputerSystemFinalWorkBlog/',
-    title: 'Guan Jiannan 的计算机系统大作业博客',
+    title: 'jubgjf 的计算机系统大作业博客',
     theme: 'default-prefers-color-scheme',
     themeConfig: {
         sidebar: [
